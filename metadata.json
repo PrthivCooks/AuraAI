@@ -1,0 +1,7 @@
+{
+  "name": "Aura: AI-Native Health Co-Pilot",
+  "description": "An AI-native ingredient understanding co-pilot that transforms complex labels into human insight through intent inference and adaptive reasoning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
